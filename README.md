@@ -3,7 +3,8 @@
 
 Overview
 
-Welcome to the GitHub repository for the Company Management System project implemented in C! This robust system is designed to enhance employee management efficiency by providing essential functionalities. Key features include:
+Welcome to the GitHub repository for the Company Management System project implemented in C! 
+This robust system is designed to enhance employee management efficiency by providing essential functionalities. Key features include:
 
 
 Add Employee: 
